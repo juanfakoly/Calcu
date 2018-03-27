@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="58441" started-at="2018-03-21T16:38:09Z" finished-at="2018-03-21T16:39:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="58441" started-at="2018-03-21T16:38:09Z" finished-at="2018-03-21T16:39:08Z">
+      <class name="calcu.calculator">
+        <test-method status="PASS" signature="inicio()[pri:0, instance:calcu.calculator@2e3fc542]" name="inicio" is-config="true" duration-ms="18017" started-at="2018-03-21T16:38:09Z" finished-at="2018-03-21T16:38:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inicio -->
+        <test-method status="PASS" signature="process()[pri:0, instance:calcu.calculator@2e3fc542]" name="process" duration-ms="40379" started-at="2018-03-21T16:38:27Z" finished-at="2018-03-21T16:39:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- process -->
+      </class> <!-- calcu.calculator -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
